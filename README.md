@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm an undergraduate currently pursuing B.Tech CSE at IITB
+
 <!--
 **Kevinbaua/Kevinbaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
